@@ -10,10 +10,3 @@ This project implements a sophisticated maze-solving algorithm for a micromouse.
 - **Optimization**: More efficient than Depth-First Search (DFS) and A* algorithms for unseen mazes.
 
 This implementation ensures efficient and effective maze-solving capabilities suitable for various applications.
-
-## Algorithm in Action
-
-![Maze Solver in Action 1](<mmsRunningPic/Screenshot (48).png>)
-
-
-![Maze Solver in Action 2](<mmsRunningPic/Screenshot (50).png>)
